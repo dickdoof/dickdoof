@@ -15,7 +15,7 @@ Proven success in building scalable platforms, leading cross-functional teams, a
 
 ## 💼 Key Roles & Achievements
 
-**Lead Architect** — *PostFinance AG (2023–Now)*  
+**Solution Architect / Lead Developer** — *PostFinance AG (2023–Now)*  
 Swiss financial institution (3B+ annual transactions)  
 - Leading real-time transaction system migration using Kafka, Kubernetes  
 - Team lead (15 specialists), introduced Arc42, DDD, and CI/CD practices  
